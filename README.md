@@ -24,6 +24,15 @@ The setup script will:
 
 Once the dependencies are installed you can activate the environments and launching python scripts.
 
+If you have problems with the environment you can clean up the files and folders created by pdm and conda by running
+
+```bash
+make uninstall
+```
+
+Then try `make setup` again.
+
+
 
 ### Activating conda enviornment
 
