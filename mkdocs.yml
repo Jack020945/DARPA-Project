@@ -1,6 +1,6 @@
 site_name: "sym_cps"
 site_description: "Develop AI-based approaches to enable correct-by-construction design of Cyber Physical Systems"
-site_url: "https://logics-project.github.io/sym-cps"
+site_url: "https://logics-project.github.io/berkeley-cps-symbiotic-design/"
 repo_url: "https://github.com/LOGiCS-Project/berkeley-cps-symbiotic-design.git"
 repo_name: "LOGiCS-Project/berkeley-cps-symbiotic-design"
 site_dir: "site"

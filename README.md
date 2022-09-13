@@ -2,7 +2,10 @@
 
 **Symbiotic Design for Cyber Physical Systems**
 
-Project descriptin available [here](https://www.darpa.mil/program/symbiotic-design-for-cyber-physical-systems)
+Project description available [here](https://www.darpa.mil/program/symbiotic-design-for-cyber-physical-systems)
+
+Documentation available [here](https://logics-project.github.io/berkeley-cps-symbiotic-design/)
+
 
 ## Installation
 
